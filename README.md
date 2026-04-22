@@ -3,7 +3,7 @@
 > Rewrite any text to sound human. Remove AI detection signals and plagiarism — while keeping your original meaning intact.
 
 Built by [Anadi99](https://github.com/Anadi99)
-( https://humanizealikeanadi.netlify.app/ )
+
 ---
 
 ## What it does
