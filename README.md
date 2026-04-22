@@ -8,7 +8,7 @@ Built by [Anadi99](https://github.com/Anadi99)
 
 ## What it does
 
-PlagProof Scribe takes your text — whether it's an essay, report, article, or book chapter — and rewrites it to bypass AI detectors and plagiarism checkers. It preserves your structure, facts, numbers, and intent. Only the phrasing changes.
+HumanizeA takes your text — whether it's an essay, report, article, or book chapter — and rewrites it to bypass AI detectors and plagiarism checkers. It preserves your structure, facts, numbers, and intent. Only the phrasing changes.
 
 ---
 
