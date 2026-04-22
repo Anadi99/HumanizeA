@@ -1,4 +1,4 @@
-# PlagProof Scribe
+# HumanizeA ( https://humanizealikeanadi.netlify.app/ )
 
 > Rewrite any text to sound human. Remove AI detection signals and plagiarism — while keeping your original meaning intact.
 
